@@ -1,3 +1,4 @@
+![logo](https://github.com/shitalgohil/shitalgohil/blob/main/github_banner.jpg)
 <h1 align="center">Hi 👋, I'm Shital Gohil</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
